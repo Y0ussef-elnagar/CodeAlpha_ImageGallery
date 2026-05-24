@@ -5,6 +5,12 @@ The project displays a grid of images and allows users to dynamically load more 
 
 ---
 
+##Live Demo
+
+👉 [https://code-alpha-image-gallery-sgpz.vercel.app/]
+
+---
+
 ## 🚀 Features
 
 - Responsive image grid layout
